@@ -1,3 +1,3 @@
 function myfunction() {
-    document.getElementById("message").innerHTML = "Hello World";
+    alert("Hello World");
 }

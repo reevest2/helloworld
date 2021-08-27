@@ -1,0 +1,13 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: cursive;
+    font-weight: normal;
+    justify-content: center;
+    align-content: center;
+}
+
+.button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
